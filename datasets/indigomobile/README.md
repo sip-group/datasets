@@ -3,9 +3,22 @@ Public dataset of copy detection patterns (CDP) based on DataMatrix modulation
 
 ### [Download](https://sipcloud.unige.ch/index.php/s/94FFq8nKjMwtWG7)
 
+## Usage
 Indigo Mobile data set is not for any commercial usage, distribution or reproduction. It is solely for academic usage. The authors do no make any warranty or assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information (either isolated or in the aggregate) contained, or represent that its use would not infringe privately owned rights.
 
-##
+## Description
+- Industrial printer:
+	- HP Indigo 5500 DS
+	- resolution 812 dpi 	
+- Mobile phone:
+	- iPhone XS
+	- automatic photo shooting settings
+	- under the regular light conditions
+- Hand-crafted fakes:
+	- Fakes #1 white: RICOH MP C307 on the white paper
+	- Fakes #1 gray: RICOH MP C307 on the gray paper
+	- Fakes #2 white: Samsung CLX-6220FX on the white paper
+	- Fakes #2 gray: Samsung CLX-6220FX on the gray paper
 
 <div style="text-align: center;">
 <table style="width: 50%; margin: 0px auto; border: none !important;">
@@ -68,19 +81,6 @@ Indigo Mobile data set is not for any commercial usage, distribution or reproduc
 </table>
 </div>
 
-##
-- Industrial printer:
-	- HP Indigo 5500 DS
-	- resolution 812 dpi 	
-- Mobile phone:
-	- iPhone XS
-	- automatic photo shooting settings
-	- under the regular light conditions
-- Hand-crafted fakes:
-	- Fakes #1 white: RICOH MP C307 on the white paper
-	- Fakes #1 gray: RICOH MP C307 on the gray paper
-	- Fakes #2 white: Samsung CLX-6220FX on the white paper
-	- Fakes #2 gray: Samsung CLX-6220FX on the gray paper
 
 ## Citation
 O. Taran, J. Tutt, T. Holotyak, R. Chaban, S. Bonev, and S. Voloshynovskiy, "Mobile authentication of copy detection patterns: how critical is to know fakes?," in Proc. IEEE International Workshop on Information Forensics and Security (WIFS), Montpellier, France, 2021. 
