@@ -1,5 +1,5 @@
 ## Indigo Mobile
-Public dataset of copy detection patterns (CDP) based on DataMatrix modulation ### [Download](https://sipcloud.unige.ch/index.php/s/94FFq8nKjMwtWG7)
+Public dataset of copy detection patterns (CDP) based on DataMatrix modulation [**Download**](https://sipcloud.unige.ch/index.php/s/94FFq8nKjMwtWG7)
 
 ## Usage
 Indigo Mobile data set is not for any commercial usage, distribution or reproduction. It is solely for academic usage. The authors do no make any warranty or assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information (either isolated or in the aggregate) contained, or represent that its use would not infringe privately owned rights.
