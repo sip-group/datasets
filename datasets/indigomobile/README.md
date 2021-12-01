@@ -1,29 +1,42 @@
 ## Indigo Mobile
 Public dataset of copy detection patterns (CDP) based on DataMatrix modulation
 
-Is now avaliable at https://sipcloud.unige.ch/index.php/s/94FFq8nKjMwtWG7
+### [Download](https://sipcloud.unige.ch/index.php/s/94FFq8nKjMwtWG7)
 
 Indigo Mobile data set is not for any commercial usage, distribution or reproduction. It is solely for academic usage. The authors do no make any warranty or assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information (either isolated or in the aggregate) contained, or represent that its use would not infringe privately owned rights.
 
 ##
 
 <div style="text-align: center;">
-<table style="width: 50%; margin: 0px auto;">
+<table style="width: 50%; margin: 0px auto; border: none !important;">
 <tbody>
 <tr>
 <th style="padding: 0; margin: 0;">
-<p style="text-align: center; margin: 0;"><span style="font-size: large;">Digital template<br></span></p>
-</th> <th style="padding: 0; margin: 0;">
-<p style="text-align: center; margin: 0;"><span style="font-size: large;">Original</span></p>
+	<p style="text-align: center; margin: 0;"><span style="font-size: large;"><br></span></p>
+</th> 	
+<th style="padding: 0; margin: 0;">
+	<p style="text-align: center; margin: 0;"><span style="font-size: large;">Digital template<br></span></p>
+</th> 
+<th style="padding: 0; margin: 0;">
+	<p style="text-align: center; margin: 0;"><span style="font-size: large;">Original</span></p>
 </th>
+<th style="padding: 0; margin: 0;">
+	<p style="text-align: center; margin: 0;"><span style="font-size: large;"><br></span></p>
+</th> 	
 </tr>
 <tr>
+<td>
+<p style="text-align: center; margin: 0;"></p>
+</td>	
 <td>
 <p style="text-align: center; margin: 0;"><img src="http://sip.unige.ch/files/2716/3733/6874/indogo_mobile_binary.png" alt="indogo_mobile_binary.png" width="180"></p>
 </td>
 <td>
 <p style="text-align: center; margin: 0;"><img src="http://sip.unige.ch/files/1916/3733/6891/indogo_mobile_original.png" alt="indogo_mobile_original.png" width="180"></p>
 </td>
+<td>
+<p style="text-align: center; margin: 0;"></p>
+</td>		
 </tr>
 <tr>
 <th style="padding: 0; margin: 0;">
@@ -31,6 +44,11 @@ Indigo Mobile data set is not for any commercial usage, distribution or reproduc
 </th> <th style="padding: 0; margin: 0;">
 <p style="text-align: center; margin: 0;"><span style="font-size: large;">Fake #1 gray<br></span></p>
 </th>
+<th style="padding: 0; margin: 0;">
+<p style="text-align: center; margin: 0;"><span style="font-size: large;">Fake #2 white<br></span></p>
+</th> <th style="padding: 0; margin: 0;">
+<p style="text-align: center; margin: 0;"><span style="font-size: large;">Fake #2 gray<br></span></p>
+</th>	
 </tr>
 <tr>
 <td>
@@ -39,21 +57,12 @@ Indigo Mobile data set is not for any commercial usage, distribution or reproduc
 <td>
 <p style="text-align: center; margin: 0;"><img src="http://sip.unige.ch/files/4516/3733/6901/indogo_mobile_f1g.png" alt="indogo_mobile_f1g.png" width="180"></p>
 </td>
-</tr>
-<tr>
-<th style="padding: 0; margin: 0;">
-<p style="text-align: center; margin: 0;"><span style="font-size: large;">Fake #2 white<br></span></p>
-</th> <th style="padding: 0; margin: 0;">
-<p style="text-align: center; margin: 0;"><span style="font-size: large;">Fake #2 gray<br></span></p>
-</th>
-</tr>
-<tr>
 <td>
 <p style="text-align: center; margin: 0;"><img src="http://sip.unige.ch/files/1516/3733/6945/indogo_mobile_f2w.png" alt="indogo_mobile_f2w.png" width="180"></p>
 </td>
 <td>
 <p style="text-align: center; margin: 0;"><img src="http://sip.unige.ch/files/2916/3733/6939/indogo_mobile_f2g.png" alt="indogo_mobile_f2g.png" width="180"></p>
-</td>
+</td>	
 </tr>
 </tbody>
 </table>
@@ -86,5 +95,3 @@ O. Taran, J. Tutt, T. Holotyak, R. Chaban, S. Bonev, and S. Voloshynovskiy, "Mob
 	    year = { 2021 }
 	}
   
-  ## 
-<span style="color: #ff0000;">This data set is not for  any commercial usage, distribution or reproduction. It is solely for  academic usage. The authors do no make any warranty or assume any legal  liability or responsibility for the accuracy, completeness, or  usefulness of any information (either isolated or in the aggregate)  contained, or represent that its use would not infringe privately owned  rights.</span>
