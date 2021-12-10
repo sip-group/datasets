@@ -88,7 +88,7 @@ Indigo 1x1 base data set is not for any commercial usage, distribution or reprod
 </div>
 
 <div style="text-align: center;">
-<table style="width: 50%; margin: 0px auto; border: none>
+<table style="width: 50%; margin: 0px auto; border: none">
 <tbody>
 <tr>
 <th style="padding: 0; margin: 0;">
