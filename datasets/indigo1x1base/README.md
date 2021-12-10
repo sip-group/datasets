@@ -91,8 +91,8 @@ Indigo 1x1 base data set is not for any commercial usage, distribution or reprod
 <table style="width: 50%; margin: 0px auto; border: none">
 <tbody>
 <tr>
-<th style="padding: 0; margin: 0;">
-<p style="text-align: center; margin: 0;"><span style="font-size: large;">30%</span></p>
+<th>&nbsp;</th> <th style="padding: 0; margin: 0;">
+<p style="text-align: center; margin: 0;"><span style="font-size: large;"><span>30%</span></span></p>
 </th> <th>&nbsp;</th> <th style="padding: 0; margin: 0;">
 <p style="text-align: center; margin: 0;"><span style="font-size: large;"><span>35%</span></span></p>
 </th> <th>&nbsp;</th> <th style="padding: 0; margin: 0;">
@@ -117,7 +117,6 @@ Indigo 1x1 base data set is not for any commercial usage, distribution or reprod
 </tbody>
 </table>
 </div>
-
 
 ## Citation
 
